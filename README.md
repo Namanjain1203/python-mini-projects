@@ -21,3 +21,11 @@ These projects helped me practice Python fundamentals such as loops, functions, 
    ```bash
    git clone https://github.com/Namanjain1203/python-mini-projects.git
    cd python-mini-projects
+2.Navigate to a project folder:
+
+cd bankingProgram
+
+
+3.Run the script:
+
+python bankingProgram.py
